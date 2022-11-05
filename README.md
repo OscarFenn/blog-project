@@ -1,3 +1,7 @@
+React blog website that uses Firebase so users can log in and make posts. You can also make comments on posts. The site was also styled using Tailwind.
+
+https://dancing-cupcake-787850.netlify.app/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
